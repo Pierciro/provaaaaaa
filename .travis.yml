@@ -11,4 +11,4 @@ addons:
 
 script:
 - ant build
-- sonar-scanner
+- sonar-scanner -Dsonar.login="13e4fdec944e94ee1d8fb7e6f0acc8995d5882d5"
